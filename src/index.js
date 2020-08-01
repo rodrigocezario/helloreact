@@ -7,7 +7,7 @@ import CadastroVideo from './pages/cadastro/Video';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-const Pagina404 = () => (<div>404</div>); //Aero function
+const Pagina404 = () => (<div>404</div>); // arrow function
 
 ReactDOM.render(
   <BrowserRouter>
