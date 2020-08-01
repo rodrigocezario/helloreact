@@ -10,6 +10,7 @@
       },
       "videos": [
         {
+          "cor": "#6BD1FF",
           "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
